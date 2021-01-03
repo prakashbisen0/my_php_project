@@ -8,7 +8,7 @@
 	$AWSbuttonSN = 'A123BC456789DEFG';  // AWS IoT Button serial number
 
 	$dbHost = 'employeereg.c5gfh7zgoi06.ap-south-1.rds.amazonaws.com';  // MySQL database host name or IP address
-	$dbName = 'employee';  // MySQL database name
+	$dbName = 'myphp';  // MySQL database name
 	$dbUsername = 'root';  // MySQL database user with read/write priveleges to the database defined above
 	$dbPassword = 'Password';  // Password for MySQL database user defined above
 
